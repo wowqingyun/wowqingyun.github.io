@@ -10,11 +10,7 @@
 title: Amazing World
 email: qingyun.chen233@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-<<<<<<< HEAD
-  He is a first year undergraduate student. He is interested in theoretical computer science and machine learning, including algorithmic game theory, quantum computing, algorithms design.
-=======
   I am a first year undergraduate student, focusing on Theoretical Computer Science, Machine Learning and Quantum Computing.
->>>>>>> 3f63820d55e4d054b92b9ea0866dd845c0bca08b
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://wowqingyun.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
