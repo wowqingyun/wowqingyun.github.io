@@ -10,7 +10,7 @@ In the Steiner Tree problem, the input is a graph G(V,E), with a set of terminal
 The target is to find a minimum-cost tree which connects all terminals.
 The Steiner Tree problem is NP-Hard, and APX-Hard[1].
 
-![Steiner Tree] (https://raw.githubusercontent.com/wowqingyun/photos/master/8%400V1SVX2Q%7DASAJ4_%7B0JH_I.png)
+<img src="https://raw.githubusercontent.com/wowqingyun/photos/master/8%400V1SVX2Q%7DASAJ4_%7B0JH_I.png" />
 
 
 References:
